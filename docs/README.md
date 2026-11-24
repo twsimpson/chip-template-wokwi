@@ -1,13 +1,11 @@
-# Wokwi Inverter Chip Example
+# Wokwi Template Chip Example
 
-This is a basic custom chip for [Wokwi](https://wokwi.com/).
+This is a custom chip template for [Wokwi](https://wokwi.com/).
 
 ## Pin names
 
 | Name | Description    |
 | ---- | -------------- |
-| INx  | Input signal   |
-| OUTx | Output signal  |
 | GND  | Ground         |
 | VCC  | Supply voltage |
 

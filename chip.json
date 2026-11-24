@@ -5,8 +5,6 @@
   "license": "MIT",
   "docs": "https://github.com/twsimpson/chip-template-wokwi/blob/main/docs/README.md",
   "pins": [
-    "OUT",
-    "IN",
     "VCC",
     "GND"
   ]
