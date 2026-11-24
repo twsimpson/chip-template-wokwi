@@ -10,8 +10,8 @@ typedef struct {
 
 void chip_init(void)
 {
-  chip_state_t *chip = malloc(sizeof(chip_state_t));
-  
+  chip_state_t *chip = new chip_state_t();
+
   // Initialize chip here
 
   std::puts("Online!");
